@@ -1,0 +1,17 @@
+﻿生成启动时间为 2015/11/26 星期四 21:01:56。
+     1>项目“E:\C\Desktop\词法分析器\词法分析器\词法分析器.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "词法分析器.cpp"
+         词法分析器.cpp
+     1>e:\c\desktop\词法分析器\词法分析器\词法分析器.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c\desktop\词法分析器\词法分析器\词法分析器.cpp(53): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>e:\c\desktop\词法分析器\词法分析器\词法分析器.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C\Desktop\词法分析器\Debug\词法分析器.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C\Desktop\词法分析器\Debug\词法分析器.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C\Desktop\词法分析器\Debug\词法分析器.lib" /MACHINE:X86 "Debug\词法分析器.obj"
+         词法分析器.vcxproj -> E:\C\Desktop\词法分析器\Debug\词法分析器.exe
+     1>已完成生成项目“E:\C\Desktop\词法分析器\词法分析器\词法分析器.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.34
